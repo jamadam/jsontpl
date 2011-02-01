@@ -2,11 +2,11 @@
  * jquery.jsontpl - client side template engine powered by jQuery
  *
  * @requires jQuery version 1.5 or higher
- * @version 0.0.5
+ * @version 0.0.6
  */
 (function ($) {
     
-    $.jsontpl = $.subclass();
+    $.jsontpl = $.sub();
     
     /**
      * プラグイン開発用のデバッグコンソール
